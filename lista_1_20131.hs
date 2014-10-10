@@ -1,3 +1,5 @@
+-- https://docs.google.com/viewer?a=v&pid=sites&srcid=Y2luLnVmcGUuYnJ8aWY2ODZ8Z3g6Njk3NDA5OTRmMDFlNjU5NQ
+
 mdc :: Int -> Int -> Int
 mdc a b | a == 0     = b
         | b == 0     = a
